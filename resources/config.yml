@@ -14,6 +14,7 @@ update-notify: true
 #nl - Dutch / Nederlands
 #fr - French / Français
 #es - Spanish / Español
+#hu - Hungarian / Magyar
 locale: en
 
 #In this worlds you can create pinata only by console or '/pinata create' admin command.
@@ -64,4 +65,4 @@ gun-item: iron_barding
 #Enable halloween special pinata effects?
 halloween-mode: false
 
-File-Version-Do-Not-Edit: 5
+File-Version-Do-Not-Edit: 6
